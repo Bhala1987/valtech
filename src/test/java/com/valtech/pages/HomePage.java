@@ -14,7 +14,7 @@ public class HomePage extends BaseActions {
 
     public String openPageValtech() {
 
-        action.goTo(getBaseUrl());
+        action.goTo("https://www.valtech.com/");
         driver.manage().window().maximize();
         return get.pageTitle();
     }

@@ -2,133 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a3b4694-e0a1-4090-aa2e-08f94da553b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/PageRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/ConditionFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/element/Act.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/element/Find.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/element/Get.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/element/Is.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/element/Times.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/element/WaitFor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/driver/javascript/Js.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/pages/BaseActions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/pages/HomePage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/stepDefs/valtech.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/utility/Hooks.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/utility/RunnerClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/utility/Table.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/utility/TestConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_cucumber_extentsreport_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_spring_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_1_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_studio_org_apache_commons_codec_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_0_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/PageRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/ConditionFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Act.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Find.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Get.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Is.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Times.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/WaitFor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/driver/javascript/Js.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/utility/Hooks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/utility/RunnerClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/utility/Table.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/valtech.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/valtech.feature" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/valtech.java" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/stepDefs/valtech.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/conf.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/valtech/pages/BaseActions.class" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/pages/BaseActions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/valtech/pages/HomePage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/pages/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/valtech/utility/TestConfig.class" afterPath="$PROJECT_DIR$/target/test-classes/com/valtech/utility/TestConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java" afterPath="$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" afterPath="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,12 +23,119 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="conf.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
+      <file leaf-file-name="TestConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="-181">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="valtech.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="valtech.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/stepDefs/valtech.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseActions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4013">
+              <caret line="1130" column="12" lean-forward="false" selection-start-line="1130" selection-start-column="12" selection-end-line="1130" selection-end-column="12" />
+              <folding>
+                <marker date="1496231522000" expanded="true" signature="92241:92258" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92241:92276" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92241:92289" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92241:92304" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92339:94859" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92352:94844" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92406:92701" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92425:92686" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92488:92666" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92528:92632" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92549:92610" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92751:93078" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92770:93063" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92865:93043" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92905:93009" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="92926:92987" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93129:93394" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93148:93379" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93181:93359" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93221:93325" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93242:93303" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93437:93743" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93456:93728" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93530:93708" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93570:93674" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93591:93652" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93794:94104" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93813:94089" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93891:94069" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93931:94035" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93952:94013" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="93988:94013" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94139:94445" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94158:94430" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94232:94410" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94272:94376" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94293:94354" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94497:94830" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94516:94815" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94617:94795" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94657:94761" ph="..." />
+                <marker date="1496231522000" expanded="true" signature="94678:94739" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,83 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kotlinc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <file leaf-file-name="RunnerClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/RunnerClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3742">
-              <caret line="325" column="5" lean-forward="true" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
-              <folding>
-                <marker date="1496227930000" expanded="true" signature="95905:95922" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="95905:95940" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="95905:95953" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="95905:95968" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96003:98562" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96016:98547" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96070:96365" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96089:96350" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96152:96330" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96192:96296" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96213:96274" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96415:96742" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96434:96727" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96529:96707" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96569:96673" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96590:96651" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96793:97058" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96812:97043" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96845:97023" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96885:96989" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="96906:96967" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97101:97407" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97120:97392" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97194:97372" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97234:97338" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97255:97316" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97458:97807" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97477:97792" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97555:97772" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97595:97738" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97616:97716" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97842:98148" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97861:98133" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97935:98113" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97975:98079" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="97996:98057" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="98200:98533" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="98219:98518" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="98320:98498" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="98360:98464" ph="..." />
-                <marker date="1496227930000" expanded="true" signature="98381:98442" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+            <state relative-caret-position="152">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -245,42 +162,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="valtech.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="38" lean-forward="false" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="328">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -299,6 +188,10 @@
       <find>eas</find>
       <find>easy</find>
       <find>Feasy</find>
+      <find>getBaseUrl</find>
+      <find>conf</find>
+      <find>conf.pro</find>
+      <find>conf.properties</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -322,18 +215,18 @@
         <option value="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Find.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/valtech/PageRepository.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/valtech/stepDefs/valtech.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Get.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/valtech/utility/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/valtech/utility/RunnerClass.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/conf.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java" />
         <option value="$PROJECT_DIR$/.idea/.name" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" />
       </list>
     </option>
   </component>
@@ -345,7 +238,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
+    <option name="x" value="169" />
     <option name="y" value="23" />
     <option name="width" value="2396" />
     <option name="height" value="1248" />
@@ -379,6 +272,218 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stepDefs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="driver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valtech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -388,15 +493,19 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/test-classes" />
+      <recent name="$PROJECT_DIR$/target/test-classes/com" />
+      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test/java/com/valtech/utility" />
     </key>
   </component>
@@ -412,7 +521,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: 1 - Latest news assertion">
+  <component name="RunManager" selected="Cucumber java.All Features in: valtech">
+    <configuration default="false" name="Scenario: 1 - Latest news assertion" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" />
+      <option name="GLUE" value="com.valtech.utility cucumber.api.spring com.valtech.stepDefs" />
+      <option name="myNameFilter" value="^1 \- Latest news assertion$" />
+      <option name="myGeneratedName" value="Scenario: 1 - Latest news assertion" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <option name="VM_PARAMETERS" value="-Ddriver=chrome -Denv=dev" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^1 \- Latest news assertion$&quot;" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="valtech" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -636,30 +769,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="Scenario: 1 - Latest news assertion" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature" />
-      <option name="GLUE" value="cucumber.api.spring com.valtech.utility com.valtech.stepDefs" />
-      <option name="myNameFilter" value="^1 \- Latest news assertion$" />
-      <option name="myGeneratedName" value="Scenario: 1 - Latest news assertion" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <option name="VM_PARAMETERS" value="-Denv=dev -Ddriver=chrome -Dcucumber.options=&quot;src/test/resources/features --tags @valtech" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^1 \- Latest news assertion$&quot;" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="valtech" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="All Features in: valtech" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -685,9 +794,14 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Cucumber java.Scenario: 1 - Latest news assertion" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber java.All Features in: valtech" />
+      <item index="0" class="java.lang.String" itemvalue="Cucumber java.All Features in: valtech" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber java.Scenario: 1 - Latest news assertion" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Cucumber java.Scenario: 1 - Latest news assertion" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -703,42 +817,50 @@
       <option name="presentableId" value="Default" />
       <updated>1496225649949</updated>
     </task>
+    <task id="LOCAL-00001" summary="Valtech">
+      <created>1496228003774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496228003774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 39m 23s.xml">
+    <history-entry file="All_Features_in__valtech - 2017.05.31 at 12h 49m 11s.xml">
+      <configuration name="All Features in: valtech" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__valtech - 2017.05.31 at 12h 51m 29s.xml">
+      <configuration name="All Features in: valtech" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__valtech - 2017.05.31 at 12h 52m 18s.xml">
+      <configuration name="All Features in: valtech" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 28m 38s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 40m 31s.xml">
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 29m 29s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 41m 18s.xml">
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 29m 57s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 41m 41s.xml">
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 30m 14s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 43m 13s.xml">
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 32m 50s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 50m 00s.xml">
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 44m 43s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 50m 25s.xml">
-      <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 50m 32s.xml">
-      <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 50m 40s.xml">
-      <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 11h 50m 43s.xml">
+    <history-entry file="Scenario__1_-_Latest_news_assertion - 2017.05.31 at 12h 47m 18s.xml">
       <configuration name="Scenario: 1 - Latest news assertion" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="23" width="2396" height="1248" extended-state="0" />
+    <frame x="169" y="23" width="2396" height="1248" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -749,14 +871,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5610619" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6185841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50530976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25191164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -795,9 +917,27 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Valtech" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valtech" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/valtech/stepDefs/valtech.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -806,29 +946,54 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="113">
+          <caret line="870" column="12" lean-forward="false" selection-start-line="870" selection-start-column="12" selection-end-line="870" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1496231522000" expanded="true" signature="92241:92258" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92276" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92289" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92304" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92339:94859" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92352:94844" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92406:92701" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92425:92686" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92488:92666" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92528:92632" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92549:92610" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92751:93078" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92770:93063" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92865:93043" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92905:93009" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92926:92987" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93129:93394" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93148:93379" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93181:93359" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93221:93325" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93242:93303" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93437:93743" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93456:93728" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93530:93708" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93570:93674" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93591:93652" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93794:94104" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93813:94089" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93891:94069" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93931:94035" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93952:94013" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93988:94013" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94139:94445" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94158:94430" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94232:94410" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94272:94376" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94293:94354" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94497:94830" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94516:94815" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94617:94795" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94657:94761" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94678:94739" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/.name">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,47 +1026,48 @@
         <state relative-caret-position="118">
           <caret line="112" column="16" lean-forward="false" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="16" />
           <folding>
-            <marker date="1496227930000" expanded="true" signature="95905:95922" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="95905:95940" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="95905:95953" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="95905:95968" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96003:98562" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96016:98547" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96070:96365" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96089:96350" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96152:96330" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96192:96296" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96213:96274" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96415:96742" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96434:96727" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96529:96707" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96569:96673" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96590:96651" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96793:97058" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96812:97043" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96845:97023" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96885:96989" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96906:96967" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97101:97407" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97120:97392" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97194:97372" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97234:97338" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97255:97316" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97458:97807" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97477:97792" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97555:97772" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97595:97738" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97616:97716" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97842:98148" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97861:98133" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97935:98113" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97975:98079" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97996:98057" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98200:98533" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98219:98518" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98320:98498" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98360:98464" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98381:98442" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92258" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92276" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92289" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92304" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92339:94859" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92352:94844" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92406:92701" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92425:92686" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92488:92666" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92528:92632" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92549:92610" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92751:93078" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92770:93063" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92865:93043" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92905:93009" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92926:92987" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93129:93394" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93148:93379" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93181:93359" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93221:93325" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93242:93303" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93437:93743" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93456:93728" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93530:93708" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93570:93674" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93591:93652" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93794:94104" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93813:94089" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93891:94069" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93931:94035" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93952:94013" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93988:94013" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94139:94445" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94158:94430" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94232:94410" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94272:94376" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94293:94354" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94497:94830" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94516:94815" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94617:94795" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94657:94761" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94678:94739" ph="..." />
           </folding>
         </state>
       </provider>
@@ -928,7 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -960,14 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="111" column="38" lean-forward="false" selection-start-line="111" selection-start-column="31" selection-end-line="111" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1014,39 +1171,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/stepDefs/valtech.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/driver/element/Get.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="68" column="5" lean-forward="false" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/RunnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1062,16 +1190,8 @@
         <state relative-caret-position="159">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,15 +1206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,7 +1220,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1125,56 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3742">
-          <caret line="325" column="5" lean-forward="true" selection-start-line="325" selection-start-column="5" selection-end-line="325" selection-end-column="5" />
-          <folding>
-            <marker date="1496227930000" expanded="true" signature="95905:95922" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="95905:95940" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="95905:95953" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="95905:95968" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96003:98562" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96016:98547" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96070:96365" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96089:96350" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96152:96330" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96192:96296" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96213:96274" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96415:96742" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96434:96727" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96529:96707" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96569:96673" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96590:96651" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96793:97058" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96812:97043" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96845:97023" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96885:96989" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="96906:96967" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97101:97407" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97120:97392" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97194:97372" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97234:97338" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97255:97316" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97458:97807" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97477:97792" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97555:97772" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97595:97738" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97616:97716" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97842:98148" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97861:98133" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97935:98113" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97975:98079" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="97996:98057" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98200:98533" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98219:98518" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98320:98498" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98360:98464" ph="..." />
-            <marker date="1496227930000" expanded="true" signature="98381:98442" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1225,7 +1286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1253,36 +1313,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
+    <entry file="file://$PROJECT_DIR$/resources/features/automation/valtech.feature" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/com/conf.properties" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="4013">
+          <caret line="1130" column="12" lean-forward="false" selection-start-line="1130" selection-start-column="12" selection-end-line="1130" selection-end-column="12" />
+          <folding>
+            <marker date="1496231522000" expanded="true" signature="92241:92258" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92276" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92289" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92241:92304" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92339:94859" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92352:94844" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92406:92701" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92425:92686" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92488:92666" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92528:92632" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92549:92610" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92751:93078" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92770:93063" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92865:93043" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92905:93009" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="92926:92987" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93129:93394" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93148:93379" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93181:93359" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93221:93325" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93242:93303" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93437:93743" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93456:93728" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93530:93708" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93570:93674" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93591:93652" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93794:94104" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93813:94089" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93891:94069" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93931:94035" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93952:94013" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="93988:94013" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94139:94445" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94158:94430" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94232:94410" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94272:94376" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94293:94354" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94497:94830" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94516:94815" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94617:94795" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94657:94761" ph="..." />
+            <marker date="1496231522000" expanded="true" signature="94678:94739" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/RunnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="39" column="68" lean-forward="true" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+        <state relative-caret-position="152">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/stepDefs/valtech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/conf.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/utility/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/valtech/pages/BaseActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/automation/valtech.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1344,7 +1519,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

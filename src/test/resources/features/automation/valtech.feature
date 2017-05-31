@@ -2,7 +2,7 @@ Feature: Valtech QA Challenge
 
   @valtech
   Scenario: 1 - Latest news assertion
-    Given I am on valtech homepage
+    Given I am on valtechgit  homepage
     Then I check for "LATEST NEWS" section
 
   @valtech

@@ -55,18 +55,6 @@ public class BaseActions {
     @Value("${systest}")
     private String systest;
 
-    String getBaseUrl() {
-
-        String baseUrl = null;
-        switch (env) {
-            case "dev":
-                baseUrl = local;
-                return baseUrl;
-            default:
-                throw new IllegalArgumentException("Unknown environment '" + env + "' used to trigger the tests. Please use 'local' or 'dev' or 'systest'");
-        }
-    }
-
     protected String getRandomString(int stringLength) {
         String SALTCHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         StringBuilder salt = new StringBuilder();

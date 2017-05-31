@@ -20,7 +20,6 @@ import org.springframework.context.annotation.PropertySource;
 
 @Configuration
 @ComponentScan(basePackages = "com.valtech")
-@PropertySource("classpath:conf.properties")
 public class TestConfig {
 
     @Value("${driver}")

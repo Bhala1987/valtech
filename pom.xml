@@ -8,7 +8,7 @@
         <repo.basedir>${project.basedir}/repo</repo.basedir>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spring.version>6.1.14</spring.version>
+        <spring.version>6.1.20</spring.version>
         <cucumber.version>1.2.5</cucumber.version>
         <version.cucumber.reporting>3.1.0</version.cucumber.reporting>
         <selenium.version>3.0.1</selenium.version>
